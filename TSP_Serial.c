@@ -1,9 +1,4 @@
-/*
-    Ali Raza
-    20I-0782
-    PDC-Summer-2023
-    Project - Serial Program
-*/
+
 
 //=========================================================
 //Headers
